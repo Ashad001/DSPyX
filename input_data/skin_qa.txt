@@ -1,0 +1,190 @@
+Question: Which skin type is most prone to frequent breakouts and acne? Answer: Oily
+Question: What skin type typically lacks natural oils and may feel tight after cleansing? Answer: Dry
+Question: Which skin type often has different needs for different facial areas? Answer: Combination
+Question: What skin type is most likely to react negatively to new skincare products? Answer: Sensitive
+Question: Which skin type benefits most from clay masks? Answer: Oily
+Question: What skin type often requires heavier, more emollient moisturizers? Answer: Dry
+Question: Which skin type might need different products for the T-zone and cheeks? Answer: Combination
+Question: What skin type is most likely to experience stinging or burning sensations with certain products? Answer: Sensitive
+Question: Which skin type is most prone to blackheads? Answer: Oily
+Question: What skin type often feels rough or scaly to the touch? Answer: Dry
+Question: Which skin type might have oily skin in summer but dry skin in winter? Answer: Combination
+Question: What skin type is most likely to develop rosacea? Answer: Sensitive
+Question: Which skin type benefits most from oil-free sunscreens? Answer: Oily
+Question: What skin type often shows premature signs of aging due to lack of natural oils? Answer: Dry
+Question: Which skin type might need blotting papers for some areas but moisturizer for others? Answer: Combination
+Question: What skin type is most likely to react to fragrances in skincare products? Answer: Sensitive
+Question: Which skin type is most prone to seborrheic dermatitis? Answer: Oily
+Question: What skin type often benefits from humidifiers in indoor environments? Answer: Dry
+Question: Which skin type might have visible pores in the T-zone but not on the cheeks? Answer: Combination
+Question: What skin type is most likely to experience eczema flare-ups? Answer: Sensitive
+Question: Which skin type often benefits from salicylic acid treatments? Answer: Oily
+Question: What skin type typically lacks a visible glow or radiance? Answer: Dry
+Question: Which skin type might need different cleansing routines for morning and night? Answer: Combination
+Question: What skin type is most likely to react to changes in water hardness? Answer: Sensitive
+Question: Which skin type often benefits from mattifying primers? Answer: Oily
+Question: What skin type typically needs to reapply moisturizer throughout the day? Answer: Dry
+Question: Which skin type might have an oily forehead but dry cheeks? Answer: Combination
+Question: What skin type is most prone to contact dermatitis? Answer: Sensitive
+Question: Which skin type often struggles with makeup longevity due to excess oil production? Answer: Oily
+Question: What skin type is most likely to experience tightness after swimming? Answer: Dry
+Question: Which skin type might benefit from using different moisturizers for day and night? Answer: Combination
+Question: What skin type often reacts poorly to physical exfoliants? Answer: Sensitive
+Question: Which skin type is most likely to develop sebaceous filaments? Answer: Oily
+Question: What skin type often feels itchy, especially in low humidity environments? Answer: Dry
+Question: Which skin type might have shine in the T-zone by midday but not on the cheeks? Answer: Combination
+Question: What skin type is most likely to flush easily after eating spicy foods? Answer: Sensitive
+Question: Which skin type often benefits from gel-based moisturizers? Answer: Oily
+Question: What skin type typically needs richer eye creams? Answer: Dry
+Question: Which skin type might require more frequent exfoliation in the T-zone? Answer: Combination
+Question: What skin type is most prone to developing hives? Answer: Sensitive
+Question: Which skin type often benefits from niacinamide in skincare products? Answer: Oily
+Question: What skin type typically feels relieved after applying moisturizer? Answer: Dry
+Question: Which skin type might need to adjust skincare routines seasonally? Answer: Combination
+Question: What skin type is most likely to react to essential oils in skincare? Answer: Sensitive
+Question: Which skin type often benefits from using a facial steamer? Answer: Oily
+Question: What skin type typically needs to avoid alcohol-based toners? Answer: Dry
+Question: Which skin type might benefit from multi-masking techniques? Answer: Combination
+Question: What skin type is most prone to developing allergic reactions to skincare ingredients? Answer: Sensitive
+Question: Which skin type often benefits from powder sunscreens? Answer: Oily
+Question: What skin type typically needs to incorporate facial oils into their skincare routine? Answer: Dry
+Question: Which skin type is most likely to develop comedones? Answer: Oily
+Question: What skin type often feels uncomfortable without moisturizer? Answer: Dry
+Question: Which skin type might have fine lines on cheeks but not on the forehead? Answer: Combination
+Question: What skin type is most prone to developing sunburn easily? Answer: Sensitive
+Question: Which skin type often benefits from using blotting papers throughout the day? Answer: Oily
+Question: What skin type typically needs products with hyaluronic acid? Answer: Dry
+Question: Which skin type might have larger pores in the T-zone but not on the cheeks? Answer: Combination
+Question: What skin type is most likely to react to changes in temperature? Answer: Sensitive
+Question: Which skin type often benefits from using a toner with witch hazel? Answer: Oily
+Question: What skin type typically needs to avoid hot showers? Answer: Dry
+Question: Which skin type might benefit from using two different cleansers? Answer: Combination
+Question: What skin type is most prone to developing spider veins? Answer: Sensitive
+Question: Which skin type often struggles with foundation separating during the day? Answer: Oily
+Question: What skin type typically benefits from overnight moisturizing masks? Answer: Dry
+Question: Which skin type might have occasional breakouts only in specific areas? Answer: Combination
+Question: What skin type is most likely to react to retinol products? Answer: Sensitive
+Question: Which skin type often benefits from charcoal-based cleansers? Answer: Oily
+Question: What skin type typically needs to reapply lip balm frequently? Answer: Dry
+Question: Which skin type might have a shiny nose but matte cheeks? Answer: Combination
+Question: What skin type is most prone to developing milia? Answer: Sensitive
+Question: Which skin type often benefits from using glycolic acid toners? Answer: Oily
+Question: What skin type typically needs to avoid foaming cleansers? Answer: Dry
+Question: Which skin type might benefit from using different serums for different facial areas? Answer: Combination
+Question: What skin type is most likely to react to chemical sunscreens? Answer: Sensitive
+Question: Which skin type often benefits from using oil-absorbing sheets? Answer: Oily
+Question: What skin type typically needs products with ceramides? Answer: Dry
+Question: Which skin type might have congestion in the T-zone but not on the cheeks? Answer: Combination
+Question: What skin type is most prone to developing contact urticaria? Answer: Sensitive
+Question: Which skin type often benefits from using salicylic acid cleansers? Answer: Oily
+Question: What skin type typically needs to avoid alcohol-based products? Answer: Dry
+Question: Which skin type might require different skincare routines for day and night? Answer: Combination
+Question: What skin type is most likely to react to niacinamide? Answer: Sensitive
+Question: Which skin type often benefits from using mattifying moisturizers? Answer: Oily
+Question: What skin type typically needs to incorporate facial oils in winter? Answer: Dry
+Question: Which skin type might have occasional dry patches alongside oily areas? Answer: Combination
+Question: What skin type is most prone to developing photodermatitis? Answer: Sensitive
+Question: Which skin type often benefits from using clay-based spot treatments? Answer: Oily
+Question: What skin type typically needs to use a humectant before moisturizer? Answer: Dry
+Question: Which skin type might benefit from using different sunscreens for different facial areas? Answer: Combination
+Question: What skin type is most likely to react to vitamin C serums? Answer: Sensitive
+Question: Which skin type often benefits from using pore strips? Answer: Oily
+Question: What skin type typically needs to avoid exfoliating scrubs? Answer: Dry
+Question: Which skin type might have a combination of closed and open comedones? Answer: Combination
+Question: What skin type is most prone to developing perioral dermatitis? Answer: Sensitive
+Question: Which skin type often benefits from using BHA exfoliants? Answer: Oily
+Question: What skin type typically needs to apply moisturizer to damp skin? Answer: Dry
+Question: Which skin type might have different skincare needs for each season? Answer: Combination
+Question: What skin type is most likely to react to wool clothing? Answer: Sensitive
+Question: Which skin type often benefits from using oil-control primers? Answer: Oily
+Question: What skin type typically needs to incorporate facial mists into their routine? Answer: Dry
+Question: Which skin type is most prone to developing cystic acne? Answer: Oily
+Question: What skin type often benefits from using products with squalane? Answer: Dry
+Question: Which skin type might have oily eyelids but dry under-eyes? Answer: Combination
+Question: What skin type is most likely to react negatively to microdermabrasion? Answer: Sensitive
+Question: Which skin type often benefits from using green tea-based products? Answer: Oily
+Question: What skin type typically needs to avoid clay masks? Answer: Dry
+Question: Which skin type might have different skincare needs for forehead and chin? Answer: Combination
+Question: What skin type is most prone to developing seborrheic keratosis? Answer: Sensitive
+Question: Which skin type often benefits from using AHA (alpha hydroxy acid) products? Answer: Oily
+Question: What skin type typically needs to use cream-based cleansers? Answer: Dry
+Question: Which skin type might have oiliness that fluctuates with hormonal changes? Answer: Combination
+Question: What skin type is most likely to react to sheet masks? Answer: Sensitive
+Question: Which skin type often benefits from using astringent toners? Answer: Oily
+Question: What skin type typically needs to incorporate facial massage into their routine? Answer: Dry
+Question: Which skin type might have different skincare needs for nose and cheeks? Answer: Combination
+Question: What skin type is most prone to developing melasma? Answer: Sensitive
+Question: Which skin type often benefits from using tea tree oil products? Answer: Oily
+Question: What skin type typically needs to avoid glycolic acid? Answer: Dry
+Question: Which skin type might have occasional breakouts alongside dry patches? Answer: Combination
+Question: What skin type is most likely to react to mineral makeup? Answer: Sensitive
+Question: Which skin type often benefits from using sulfur-based treatments? Answer: Oily
+Question: What skin type typically needs to use occlusive moisturizers at night? Answer: Dry
+Question: Which skin type might have different skincare needs for morning and evening? Answer: Combination
+Question: What skin type is most prone to developing keratosis pilaris? Answer: Sensitive
+Question: Which skin type often benefits from using products with zinc? Answer: Oily
+Question: What skin type typically needs to incorporate facial steaming into their routine? Answer: Dry
+Question: Which skin type might have oily skin in humid climates but dry skin in arid ones? Answer: Combination
+Question: What skin type is most likely to react to lanolin in skincare products? Answer: Sensitive
+Question: Which skin type often benefits from using oil-free sunscreen sticks? Answer: Oily
+Question: What skin type typically needs to avoid alcohol-based hand sanitizers on the face? Answer: Dry
+Question: Which skin type typically has a balanced production of sebum? Answer: Normal
+Question: What skin type often experiences a "tight" feeling after cleansing? Answer: Dry
+Question: Which skin type might have occasional breakouts during stress? Answer: Normal
+Question: What skin type is most prone to developing fungal acne? Answer: Oily
+Question: Which skin type usually doesn't require special skincare products? Answer: Normal
+Question: What skin type often reacts to synthetic fragrances in skincare? Answer: Sensitive
+Question: Which skin type typically has small, barely visible pores? Answer: Normal
+Question: What skin type benefits most from oil-based cleansers? Answer: Dry
+Question: Which skin type might experience mild seasonal changes? Answer: Normal
+Question: What skin type often has a shiny appearance by midday? Answer: Oily
+Question: Which skin type usually maintains a healthy skin barrier? Answer: Normal
+Question: What skin type might need different products for cheeks and forehead? Answer: Combination
+Question: Which skin type rarely experiences extreme dryness or oiliness? Answer: Normal
+Question: What skin type often benefits from hydrating sheet masks? Answer: Dry
+Question: Which skin type typically doesn't react to most skincare products? Answer: Normal
+Question: What skin type is most prone to developing sebaceous hyperplasia? Answer: Oily
+Question: Which skin type usually has a clear, even complexion? Answer: Normal
+Question: What skin type often experiences redness after hot showers? Answer: Sensitive
+Question: Which skin type typically doesn't need mattifying products? Answer: Normal
+Question: What skin type benefits most from glycerin-based moisturizers? Answer: Dry
+Question: Which skin type usually has good elasticity? Answer: Normal
+Question: What skin type often experiences congestion in the T-zone? Answer: Combination
+Question: Which skin type rarely needs blotting papers? Answer: Normal
+Question: What skin type is most prone to developing comedonal acne? Answer: Oily
+Question: Which skin type typically has a radiant appearance without products? Answer: Normal
+Question: What skin type often experiences flaking in cold weather? Answer: Dry
+Question: Which skin type usually doesn't have pronounced skin concerns? Answer: Normal
+Question: What skin type might react to certain fabrics worn against the skin? Answer: Sensitive
+Question: Which skin type typically has a smooth texture? Answer: Normal
+Question: What skin type often experiences breakouts during menstruation? Answer: Combination
+Question: Which skin type usually doesn't require intensive moisturizing? Answer: Normal
+Question: What skin type benefits most from foam cleansers? Answer: Oily
+Question: Which skin type typically maintains hydration well throughout the day? Answer: Normal
+Question: What skin type often experiences tightness after swimming? Answer: Dry
+Question: Which skin type usually doesn't have heightened sensitivity? Answer: Normal
+Question: What skin type might have different needs for day and night skincare? Answer: Combination
+Question: Which skin type typically doesn't experience frequent breakouts? Answer: Normal
+Question: What skin type often reacts to physical sunscreens? Answer: Sensitive
+Question: Which skin type usually has a healthy skin microbiome? Answer: Normal
+Question: What skin type benefits most from dual-phase cleansing oils? Answer: Oily
+Question: Which skin type typically doesn't require special climate considerations? Answer: Normal
+Question: What skin type often experiences rough patches on cheeks? Answer: Dry
+Question: Which skin type usually has minimal fine lines? Answer: Normal
+Question: What skin type might have oiliness that varies with humidity? Answer: Combination
+Question: Which skin type typically doesn't need pore-minimizing products? Answer: Normal
+Question: What skin type often experiences stinging with acid exfoliants? Answer: Sensitive
+Question: Which skin type usually has a consistent appearance throughout the day? Answer: Normal
+Question: What skin type benefits most from noncomedogenic products? Answer: Oily
+Question: Which skin type typically doesn't require frequent exfoliation? Answer: Normal
+Question: What skin type often needs to layer multiple hydrating products? Answer: Dry
+Question: Which skin type usually doesn't experience extreme reactions to new products? Answer: Normal
+Question: What skin type might have different skincare needs each week of the month? Answer: Combination
+Question: Which skin type typically doesn't require intensive treatments? Answer: Normal
+Question: What skin type often experiences flushing after spicy foods? Answer: Sensitive
+Question: Which skin type usually has a natural, healthy glow? Answer: Normal
+Question: What skin type benefits most from water-based moisturizers? Answer: Oily
+Question: Which skin type typically doesn't have chronic skin conditions? Answer: Normal
+Question: What skin type often requires extra sun protection? Answer: Sensitive
+Question: Which skin type usually maintains a balanced pH level? Answer: Normal
+Question: What skin type might have different skincare needs for each facial area? Answer: Combination
