@@ -1,0 +1,4 @@
+dspy_ai==2.4.9
+numpy==1.23.3
+pandas==2.2.2
+groq==0.8.0
